@@ -110,3 +110,4 @@ There are additional items that Aaron and Tony have identified as further to do 
 * Post Kaggle score / placement results
 * Refactor and upload EDA and hyperparameter optimization code
 * Post a predicted "March Madness" Result bracket using our model(s)
+* Investigate [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) for use in regression analysis
